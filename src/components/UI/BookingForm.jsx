@@ -23,10 +23,13 @@ const BookingForm = () => {
       </FormGroup>
 
       <FormGroup className="booking__form d-inline-block me-4 mb-4">
-        <input type="text" placeholder="From Address" />
+        <input
+          type="text"
+          placeholder="From Address (e.g., Andheri East, Mumbai)"
+        />
       </FormGroup>
       <FormGroup className="booking__form d-inline-block ms-1 mb-4">
-        <input type="text" placeholder="To Address" />
+        <input type="text" placeholder="To Address (e.g., Bandra, Mumbai)" />
       </FormGroup>
 
       <FormGroup className="booking__form d-inline-block me-4 mb-4">
