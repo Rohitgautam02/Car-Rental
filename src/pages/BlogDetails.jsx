@@ -58,9 +58,8 @@ const BlogDetails = () => {
                     <h6 className=" fw-bold">David Visa</h6>
                     <p className="section__description mb-0">14 July, 2022</p>
                     <p className="section__description">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Eos nobis totam eius laborum molestias itaque minima
-                      distinctio, quae velit tempore!
+                      We are committed to making your journey comfortable, safe, and hassle-free. 
+                      With transparent pricing, on-time service, and a wide range of vehicles, we ensure you get the perfect ride for every occasion.
                     </p>
 
                     <span className="replay d-flex align-items-center gap-1">

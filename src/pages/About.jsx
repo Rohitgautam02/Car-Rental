@@ -32,17 +32,17 @@ const About = () => {
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  We are dedicated to providing safe, reliable, and affordable travel solutions across India.
+                  Every car in our fleet is regularly serviced, sanitized, and maintained to meet the highest standards. 
+                  Our professional drivers are trained, verified, and courteous, ensuring that your journey is always comfortable and worry-free.
+
+                  From short city rides to long outstation trips, we cater to all travel needs with flexible booking options, transparent pricing, and 24x7 customer support. 
+                  Whether you’re traveling for business, leisure, or family vacations, we make sure your ride is smooth, secure, and memorable.
                 </p>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  We believe in offering a travel experience you can trust. Our cars are well-maintained, clean, and equipped for comfort, while our drivers are professional, courteous, and knowledgeable about local routes. 
+                  Whether it’s a quick city transfer or a long-distance journey, we ensure punctuality, safety, and complete customer satisfaction every time.
                 </p>
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
@@ -52,7 +52,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>+91 9896664745</h4>
                   </div>
                 </div>
               </div>
